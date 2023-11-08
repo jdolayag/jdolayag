@@ -1,9 +1,18 @@
-### Hi there 👋
+### ¡Hola! soy David, ingeniero de sistemas.
 
-<!--
-**jdolayag/jdolayag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Front-end e Ingeniero de Sistemas, apasionado por la tecnología y con un hambre constante de aprendizaje. Siempre listo para abrazar nuevas tecnologías y enfrentar desafíos emocionantes en el mundo del desarrollo. Mi objetivo es seguir creciendo, innovando y colaborando en proyectos que marquen la diferencia. ¡Conmigo, el aprendizaje es una constante y el futuro es emocionante!
 
-Here are some ideas to get you started:
+### Lenguajes y herramientas
+GitHub [<img width="25px"
+src="https:https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg " />[GitHub]!
+[GitHub]: https://github.com/
+
+
+Estoy buscando oportunidades desafiantes para aplicar mis conocimientos y mi creatividad en entornos tecnológicos dinámicos. Estoy abierto a colaboraciones, aprendizaje y desarrollo continuo. Si estás interesado en un profesional apasionado por la tecnología, la innovación y el crecimiento, ¡me encantaría conectarme contigo!
+
+### Contactame
+
+### Proyectos
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
