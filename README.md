@@ -5,8 +5,8 @@
 Desarrollador Front-end e Ingeniero de Sistemas, apasionado por la tecnología y con un hambre constante de aprendizaje. Siempre listo para abrazar nuevas tecnologías y enfrentar desafíos emocionantes en el mundo del desarrollo. Mi objetivo es seguir creciendo, innovando y colaborando en proyectos que marquen la diferencia. ¡Conmigo, el aprendizaje es una constante y el futuro es emocionante!
 
 ### Lenguajes y herramientas
-<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vscode/vscode-original-wordmark.svg" alt="VisualStudio" width="50" height="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-plain-wordmark.svg" alt="html5" width="50" height="50">
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vscode/vscode-original-wordmark.svg" alt="VisualStudio" width="50" height="50"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-plain-wordmark.svg" alt="html5" width="50" height="50"></code>
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-plain-wordmark.svg" alt="css3" width="50" height="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/php/php-plain.svg" alt="PHP" width="50" height="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="50" height="50">
