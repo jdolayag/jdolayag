@@ -1,4 +1,4 @@
-
+<img src="https://github.com/jdolayag/jdolayag/blob/main/Assets/Nombre%20animado.gif" alt="Introducción">
 
 ## <center>¡Hola! soy David, ingeniero de sistemas. </center>
 
