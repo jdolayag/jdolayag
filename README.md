@@ -14,7 +14,7 @@ Desarrollador Front-end e Ingeniero de Sistemas, apasionado por la tecnología y
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase.com" width="50" height="50"></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwindcss" width="50" height="50"></code>
 <code><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" alt="GitHub" width="50" height="50"></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/androidstudio/androidstudio-original-wordmark.svg" alt="AndroidStudio" width="50" height="50"></code>
+<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/androidstudio/androidstudio-original-wordmark.svg" alt="AndroidStudio" width="50" height="50">
 
 ##
 Estoy buscando oportunidades desafiantes para aplicar mis conocimientos y mi creatividad en entornos tecnológicos dinámicos. Estoy abierto a colaboraciones, aprendizaje y desarrollo continuo. Si estás interesado en un profesional apasionado por la tecnología, la innovación y el crecimiento, ¡me encantaría conectarme contigo!
