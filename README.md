@@ -1,4 +1,6 @@
-<img src="https://github.com/jdolayag/jdolayag/blob/main/Assets/Nombre%20animado.gif" alt="Introducción">
+<div style="text-align:center;">
+  <img src="https://ejemplo.com/imagen.gif" alt="Nombre animado">
+</div>
 
 ## <center>¡Hola! soy David, ingeniero de sistemas. </center>
 
@@ -16,16 +18,24 @@ Desarrollador Front-end e Ingeniero de Sistemas, apasionado por la tecnología y
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" alt="GitHub" width="50" height="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/androidstudio/androidstudio-original-wordmark.svg" alt="AndroidStudio" width="50" height="50">
 
+
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=jdolayag&show_icons=true&theme=tokyonight)  -->
+
+![jorge](https://github-readme-stats.vercel.app/api/top-langs/?username=jdolayag&hide_progress=compact&show_icons=true&theme=tokyonight)
+
 ##
 Estoy buscando oportunidades desafiantes para aplicar mis conocimientos y mi creatividad en entornos tecnológicos dinámicos. Estoy abierto a colaboraciones, aprendizaje y desarrollo continuo. Si estás interesado en un profesional apasionado por la tecnología, la innovación y el crecimiento, ¡me encantaría conectarme contigo!
 
 ### Contactame
+Me encuentro ubicado en la ciudad de Bogotá D.C, haz click en el icono de LinkedIn para enviar un mensaje.
+
 <a href="https://www.linkedin.com/in/david-olaya-a31032263/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn" width="90" height="80"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn" width="90" height="90"/>
 </a>
 
 
 ### Proyectos
-- 🌱 I’m currently learning ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Visita mi portafolio haciendo click: <a href="https://jdolayag.github.io/">aquí</a>
+
+- ⚡ Proyecto de Inventario multiplataforma haciendo clic: <a href="proactive inventory https://proactive-inventory-2.000webhostapp.com/">aquí</a>
+
