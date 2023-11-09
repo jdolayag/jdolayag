@@ -2,12 +2,12 @@
   <img src="https://github.com/jdolayag/jdolayag/blob/main/Assets/Nombre%20animado.gif?raw=true" alt="Nombre animado">
 </div>
 
-## <center>¡Hola! soy David, ingeniero de sistemas. </center>
+## <center>¡Hello! I am David, systems engineer. </center>
 
-Desarrollador Front-end e Ingeniero de Sistemas, apasionado por la tecnología y con un hambre constante de aprendizaje. Siempre listo para abrazar nuevas tecnologías y enfrentar desafíos emocionantes en el mundo del desarrollo. Mi objetivo es seguir creciendo, innovando y colaborando en proyectos que marquen la diferencia. ¡Conmigo, el aprendizaje es una constante y el futuro es emocionante!
+Front-end Developer and Systems Engineer, with a focus on proactively adopting new technologies and overcoming exciting challenges in the development world. I look for opportunities to grow, innovate and collaborate on significant projects that generate a positive impact. My commitment to continuous development and anticipation of technological trends propels me toward a future full of exciting possibilities.
 
 #
-### Lenguajes y herramientas
+### Languages and Tools
 
 
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vscode/vscode-original-wordmark.svg" alt="VisualStudio" width="50" height="50"></span>
@@ -28,18 +28,18 @@ Desarrollador Front-end e Ingeniero de Sistemas, apasionado por la tecnología y
 ![jorge](https://github-readme-stats.vercel.app/api/top-langs/?username=jdolayag&hide_progress=compact&show_icons=true&theme=tokyonight)
 
 ##
-Estoy buscando oportunidades desafiantes para aplicar mis conocimientos y mi creatividad en entornos tecnológicos dinámicos. Estoy abierto a colaboraciones, aprendizaje y desarrollo continuo. Si estás interesado en un profesional apasionado por la innovación y el crecimiento, ¡me encantaría conectarme contigo!
+I am looking for job opportunities to apply my knowledge and creativity in dynamic technological environments. I am open to collaborations, learning and continuous development. If you are interested in a professional who is passionate about innovation and growth, I would love to connect with you!
 
-### Contactame
-Me encuentro ubicado en la ciudad de Bogotá D.C, haz click en el icono de LinkedIn para enviar un mensaje.
+### Contact me
+I am located in the city of Bogotá D.C, click on the LinkedIn icon to send a message.
 
 <a href="https://www.linkedin.com/in/david-olaya-a31032263/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn" width="90" height="90"/>
 </a>
 
 
-### Proyectos
-- ⚡ Visita mi portafolio haciendo click: <a href="https://jdolayag.github.io/" target="_blank">aquí</a>
+### Projects
+- ⚡ Visit my portfolio by clicking: <a href="https://jdolayag.github.io/" target="_blank">here</a>
 
-- ⚡ Proyecto de Inventario multiplataforma haciendo clic: <a href="https://proactive-inventory-2.000webhostapp.com/" target="_blank">aquí</a>
+- ⚡ Cross-platform Inventory Project by clicking: <a href="https://proactive-inventory-2.000webhostapp.com/" target="_blank">here</a>
 
