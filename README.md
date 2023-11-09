@@ -35,7 +35,7 @@ Me encuentro ubicado en la ciudad de Bogotá D.C, haz click en el icono de Linke
 
 
 ### Proyectos
-- ⚡ Visita mi portafolio haciendo click: <a href="https://jdolayag.github.io/">aquí</a>
+- ⚡ Visita mi portafolio haciendo click: <a href="https://jdolayag.github.io/" target="blank">aquí</a>
 
-- ⚡ Proyecto de Inventario multiplataforma haciendo clic: <a href="https://proactive-inventory-2.000webhostapp.com/">aquí</a>
+- ⚡ Proyecto de Inventario multiplataforma haciendo clic: <a href="https://proactive-inventory-2.000webhostapp.com/" target="blank">aquí</a>
 
